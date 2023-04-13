@@ -24,7 +24,6 @@ ECML 2022
 **Robust Models are less Over-Confident**  
 **J. Grabinski**, P. Gavrikov, J. Keuper, M. Keuper    
 ICML 2022, Workshop New Frontiers in Adversarial Machine Learning 
-
 [PDF](https://arxiv.org/pdf/2210.05938.pdf) 
 
 

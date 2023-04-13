@@ -29,6 +29,13 @@ Work experience
 * Sep. 2015 - Aug. 2018, Corporate Student
   * SAP SE, Walldorf, Germany
   * Responsibilities: Changing every three months between different departments (UI, Machine Learning, Basic SAP)
+
+
+Teaching
+======
+* May 2011 - May 2015, Sommerakademie - Mathe NRW, Kranenburg, Germany
+   * Teaching undergraduate students in mathematical topics for a week during summer break. Most topics were offside of normal school mathematics.
+   * Organizing daily activities and taking care of younger students.
   
 <!-- Skills
 ======

@@ -7,8 +7,8 @@ author_profile: true
 
 **Robust Models are less Over-Confident**  
 **J. Grabinski**, P. Gavrikov, J. Keuper, M. Keuper    
-NeurIPS 2022  | [Code](https://github.com/GeJulia/robustness_confidences_evaluation)
-[PDF](https://openreview.net/forum?id=5K3uopkizS) 
+NeurIPS 2022  
+[PDF](https://openreview.net/forum?id=5K3uopkizS) | [Code](https://github.com/GeJulia/robustness_confidences_evaluation)
 
 **FrequencyLowCut Pooling--Plug & Play against Catastrophic Overfitting**  
 **J. Grabinski**, S. Jung, J. Keuper, M. Keuper    

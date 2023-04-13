@@ -10,7 +10,6 @@ author_profile: true
 NeurIPS 2022  
 [PDF](https://openreview.net/forum?id=5K3uopkizS) 
 
-
 **FrequencyLowCut Pooling--Plug & Play against Catastrophic Overfitting**  
 **J. Grabinski**, S. Jung, J. Keuper, M. Keuper    
 ECCV 2022  
@@ -23,9 +22,8 @@ ECML 2022
 
 **Robust Models are less Over-Confident**  
 **J. Grabinski**, P. Gavrikov, J. Keuper, M. Keuper    
-ICML 2022, Workshop New Frontiers in Adversarial Machine Learning 
+ICML 2022, Workshop New Frontiers in Adversarial Machine Learning   
 [PDF](https://arxiv.org/pdf/2210.05938.pdf) 
-
 
 **Aliasing coincides with CNNs vulnerability towards adversarial attacks**  
 **J. Grabinski**, J. Keuper, M. Keuper    

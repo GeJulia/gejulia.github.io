@@ -12,7 +12,7 @@ I am a Ph.D. student intrested in the field of Computer Vision with a focus on s
 
 News
 ======
-
+Great news! I am thrilled to announce that I am actively seeking an internship opportunity in the field of Computer Vision. With my strong academic background and passion for this rapidly evolving field, I am eager to apply my skills and learn from experts in the industry. I am confident that this internship will provide me with invaluable experience and help me grow both personally and professionally. Please do not hesitate to contact me if you have any opportunities available. Thank you for your consideration.
 
 Publications
 ======

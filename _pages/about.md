@@ -45,7 +45,5 @@ The AAAI-22 Workshop on Adversarial Machine Learning and Beyond
 [PDF](https://openreview.net/forum?id=vKc1mLxBebP) 
 
 
-Education
-======
 
 

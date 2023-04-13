@@ -81,7 +81,7 @@ analytics:
 # Site Author
 author:
   name             : "Julia Grabinski"
-  avatar           : "images/JuliaGrabinski.jpg"
+  avatar           : "JuliaGrabinski.jpg"
   bio              : "Your biography for the left-hand sidebar"
   location         : "Mannheim, Germany"
   employer         :

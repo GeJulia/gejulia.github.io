@@ -8,7 +8,8 @@ redirect_from:
   - /about.html
 ---
 
-I am a Ph.D. student intrested in the field of Computer Vision with a focus on signal processing fundamentals applied in modern deep learning approaches. I am supervised by [Prof. Dr. Margret Keuper](https://www.vc.informatik.uni-siegen.de/en/keuper-margret) at the University of Siegen in cooperation with [Prof. Dr. Janis Keuper](https://www.itwm.fraunhofer.de/de/abteilungen/hpc/mitarbeiter/janis-keuper.html) at the Fraunhofer Institute, Kaiserslautern.
+I am a Ph.D. student with a keen interest in the dynamic and ever-evolving field of Computer Vision. My research focuses on signal processing fundamentals, which I apply in modern deep learning approaches to create innovative solutions that push the boundaries of what's possible. 
+Under the supervision of [Prof. Dr. Margret Keuper](https://www.vc.informatik.uni-siegen.de/en/keuper-margret) at the University of Siegen in cooperation with [Prof. Dr. Janis Keuper](https://www.itwm.fraunhofer.de/de/abteilungen/hpc/mitarbeiter/janis-keuper.html) at the Fraunhofer Institute, Kaiserslautern, I am able to explore this exciting field at the highest level.
 
 News
 ======

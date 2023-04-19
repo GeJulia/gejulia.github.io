@@ -24,7 +24,7 @@ Work experience
 
 * May. 2017 - Aug. 2017, Corporate Student
   * SAP SE, Singapore, Singapore
-  * Responsibilities: Machine Learning Cash-Application Department for automated invoice receipe matching. Data analysis for new business-to-business use case for automated invoice receipe matching.
+  * Responsibilities: Machine Learning Cash-Application Department for automated invoice receipt matching. The data analysis for new a business-to-business use case for automated invoice receipt matching.
 
 * Sep. 2015 - Aug. 2018, Corporate Student
   * SAP SE, Walldorf, Germany

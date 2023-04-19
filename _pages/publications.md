@@ -10,7 +10,7 @@ author_profile: true
 NeurIPS 2022  
 In this paper, we empirically analyze a variety of adversarially trained models that achieve high robust accuracies when facing state-of-the-art attacks and we show that adversarial training has an interesting side-effect: it leads to models that are significantly less overconfident with their decisions even on clean data than non-robust models. 
 
-[PDF](https://openreview.net/forum?id=5K3uopkizS) | [Code](https://github.com/GeJulia/robustness_confidences_evaluation)
+[PDF](https://openreview.net/forum?id=5K3uopkizS) |  [Code](https://github.com/GeJulia/robustness_confidences_evaluation)
 
 
 **FrequencyLowCut Pooling--Plug & Play against Catastrophic Overfitting**  
@@ -18,7 +18,7 @@ In this paper, we empirically analyze a variety of adversarially trained models 
 ECCV 2022  
 In this paper, we develop a new kind of pooling layer which can be easily plugged into any CNN architecture: FrequencyLowCut pooling. Our experiments show, that in combination with simple and single-step adversarial training, our hyper-parameter free operator substantially improves model robustness and avoids catastrophic overfittingIn this paper, we develop a new kind of pooling layer which can be easily plugged into any CNN architecture: FrequencyLowCut pooling. Our experiments show, that in combination with simple and single-step adversarial training, our hyper-parameter free operator substantially improves model robustness and avoids catastrophic overfitting. 
 
-[PDF](https://www.ecva.net/papers/eccv_2022/papers_ECCV/papers/136740036.pdf) | [Code](https://github.com/GeJulia/flc_pooling)
+[PDF](https://www.ecva.net/papers/eccv_2022/papers_ECCV/papers/136740036.pdf) |  [Code](https://github.com/GeJulia/flc_pooling)
 
 **Aliasing and adversarial robust generalization of CNNs**  
 **J. Grabinski**, J. Keuper, M. Keuper    

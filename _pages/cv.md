@@ -12,7 +12,7 @@ redirect_from:
 Education
 ======
 
-* Ph.D in Computer Vision, Siegen University Visual Computing Department in cooperation with Competence Center High Performance Computing, Fraunhofer ITWM, 2024 (expected)
+* Ph.D in Computer Vision, Siegen University Department of Visual Computing in cooperation with the Competence Center High Performance Computing, Fraunhofer ITWM, 2024 (expected)
 * M.S. in Business Informatics, Mannheim University, 2021
 * B.S. in Business Informatics, DHBW (Duale Hochschule Baden-Württemberg), 2018
 
@@ -24,7 +24,7 @@ Work experience
 
 * May. 2017 - Aug. 2017, Corporate Student
   * SAP SE, Singapore, Singapore
-  * Responsibilities: Machine Learning Cash-Application Department for automated invoice recipe matching. Data analysis for new business-to-business use case for automated invoice recipe matching.
+  * Responsibilities: Machine Learning Cash-Application Department for automated invoice receipe matching. Data analysis for new business-to-business use case for automated invoice receipe matching.
 
 * Sep. 2015 - Aug. 2018, Corporate Student
   * SAP SE, Walldorf, Germany

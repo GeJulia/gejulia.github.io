@@ -1,4 +1,3 @@
-![image](https://github.com/GeJulia/gejulia.github.io/assets/33318585/b2fc23e2-99eb-44a7-915c-1ef160120f08)---
 layout: archive
 title: ""
 permalink: /cv/

@@ -33,7 +33,7 @@ Work experience
 
 Teaching
 ======
-* Oct 2021 - Apr 2022 Seminar: Domain Adaptation and Generalization, Siegen University, Germany
+* Oct 2021 - Apr 2022, Seminar: Domain Adaptation and Generalization, Siegen University, Germany
 * May 2011 - May 2015, Sommerakademie - Mathe NRW, Kranenburg, Germany
    * Teaching undergraduate students in mathematical topics for a week during summer break. Most topics were offside of normal school mathematics.
    * Organizing daily activities and taking care of younger students.

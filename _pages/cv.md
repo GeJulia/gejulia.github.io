@@ -1,4 +1,4 @@
----
+![image](https://github.com/GeJulia/gejulia.github.io/assets/33318585/b2fc23e2-99eb-44a7-915c-1ef160120f08)---
 layout: archive
 title: ""
 permalink: /cv/
@@ -33,6 +33,7 @@ Work experience
 
 Teaching
 ======
+* Oct 2021 - Apr 2022 Seminar: Domain Adaptation and Generalization, Siegen University, Germany
 * May 2011 - May 2015, Sommerakademie - Mathe NRW, Kranenburg, Germany
    * Teaching undergraduate students in mathematical topics for a week during summer break. Most topics were offside of normal school mathematics.
    * Organizing daily activities and taking care of younger students.

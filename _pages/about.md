@@ -9,13 +9,9 @@ redirect_from:
 ---
 
 I am a Ph.D. student with a keen interest in the dynamic and ever-evolving field of Computer Vision. 
-Under the supervision of [Prof. Dr. Margret Keuper](https://www.vc.informatik.uni-siegen.de/en/keuper-margret) at the University of Siegen in cooperation with [Prof. Dr. Janis Keuper](https://www.itwm.fraunhofer.de/de/abteilungen/hpc/mitarbeiter/janis-keuper.html) at the Fraunhofer Institute, Kaiserslautern, I am able to explore this exciting field at the highest level. 
+Under the supervision of [Prof. Dr. Margret Keuper](https://www.vc.informatik.uni-siegen.de/en/keuper-margret) at the University of Mannheim in cooperation with [Prof. Dr. Janis Keuper](https://www.itwm.fraunhofer.de/de/abteilungen/hpc/mitarbeiter/janis-keuper.html) at the Fraunhofer Institute, Kaiserslautern, I am able to explore this exciting field at the highest level. 
 
-My research focuses on signal processing fundamentals, which I apply in modern deep learning approaches to create innovative solutions that push the boundaries of what's possible. Especially, my current focus lies at the intersection of signal processing fundamentals and convolutional neural networks (CNNs). Through extensive analysis of various components within CNNs, I aim to leverage my signal processing expertise to address current limitations and optimize their performance. Adversarial attacks, in particular, provide a valuable means to assess these vulnerability of CNNs and refine their robustness for real-world tasks. As such, I am equally intrigued by adversarial attacks and defenses.
-
-News
-======
-Great news! I am thrilled to announce that I am actively seeking an internship opportunity in the field of Computer Vision. With my strong academic background and passion for this rapidly evolving field, I am eager to apply my skills and learn from experts in the industry. I am confident that this internship will provide me with invaluable experience and help me grow both personally and professionally. Please do not hesitate to contact me if you have any opportunities available. Thank you for your consideration.
+My research focuses on signal processing fundamentals, which I apply in modern deep learning approaches to create innovative solutions that push the boundaries of what's possible. Especially, my current focus lies at the intersection of signal processing fundamentals and convolutional neural networks (CNNs). Through extensive analysis of various components within CNNs, I aim to leverage my signal processing expertise to address current limitations and optimize their performance. Adversarial attacks, in particular, provide a valuable means to assess these vulnerabilities of CNNs and refine their robustness for real-world tasks. As such, I am equally intrigued by adversarial attacks and defences.
 
 Publications
 ======

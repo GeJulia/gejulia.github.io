@@ -12,7 +12,7 @@ redirect_from:
 Education
 ======
 
-* Ph.D in Computer Vision, Siegen University Department of Visual Computing in cooperation with the Competence Center High Performance Computing, Fraunhofer ITWM, 2024 (expected)
+* Ph.D in Computer Vision, Mannheim University Department of Computer Vision in cooperation with the Competence Center High Performance Computing, Fraunhofer ITWM, 2024 (expected)
 * M.S. in Business Informatics, Mannheim University, 2021
 * B.S. in Business Informatics, DHBW (Duale Hochschule Baden-Württemberg), 2018
 

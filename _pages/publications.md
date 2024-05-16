@@ -5,16 +5,16 @@ permalink: /publications/
 author_profile: true
 ---
 
-**Improving Stability during Upsampling--on the Importance of Spatial Context**
+**Improving Stability during Upsampling--on the Importance of Spatial Context**     
 S. Agnihotri, **J. Grabinski**, M. Keuper
-2023
+2023    
 In this paper, we analyse the importance of spatial context during upsampling in pixel-wise prediction tasks and find that the availability of large spatial context during upsampling allows to provide stable, high-quality pixel-wise predictions.
 
 [PDF](https://arxiv.org/pdf/2311.17524)
 
 
-**On the unreasonable vulnerability of transformers for image restoration-and an easy fix**
-ICCV 2023, Workshop on Adversarial Robustness In the Real World
+**On the unreasonable vulnerability of transformers for image restoration-and an easy fix**     
+ICCV 2023, Workshop on Adversarial Robustness In the Real World 
 S. Agnihotri, KV. Gandikota, **J. Grabinski**, P. Chandramouli, M. Keuper
 In this paper, we indicate that modern ViT models for pixel-wise prediction tasks are highly susceptible to adversarial attacks which is contrary to image classification ViTs which are less susceptible to pixel-wise adversarial attacks. We attempt to improve their robustness through adversarial training. While this yields a significant increase in robustness for Restormer, results on other networks are less promising and relate this fact to the type of acitivation function used after downsampling.
 

@@ -15,7 +15,7 @@ My research focuses on signal processing fundamentals, which I apply in modern d
 
 News
 ======
-**05/2024** I am excited to announce that I will be a visiting researcher at Tampere University as Visiting Resaercher in the computer vision group of [Prof. Dr. Esa Rathu](https://esa.rahtu.fi/) for the next three month!
+**05/2024** I am excited to announce that I will be a visiting researcher at Tampere University in the computer vision group of [Prof. Dr. Esa Rathu](https://esa.rahtu.fi/) for the next three month!
 
 **08/2023** Our paper [On the unreasonable vulnerability of transformers for image restoration-and an easy fix](https://openaccess.thecvf.com/content/ICCV2023W/AROW/papers/Agnihotri_On_the_Unreasonable_Vulnerability_of_Transformers_for_Image_Restoration_-_ICCVW_2023_paper.pdf) got accepted to the ICCV 2023 Workshop on Adversarial Robustness In the Real World!
 

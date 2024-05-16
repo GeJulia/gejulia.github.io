@@ -52,7 +52,7 @@ In this paper, we empirically analyze a hand full of adversarially trained model
 
 **Aliasing coincides with CNNs vulnerability towards adversarial attacks**  
 **J. Grabinski**, J. Keuper, M. Keuper    
-The AAAI-22 Workshop on Adversarial Machine Learning and Beyond    
+AAAI 2022, Workshop on Adversarial Machine Learning and Beyond    
 In this paper, we analyze adversarially trained, robust models in the context of a specifically suspicious network operation, the downsampling layer, and provide evidence that robust models have learned to downsample more accurately and suffer significantly less from aliasing than baseline models.  
 
 [PDF](https://openreview.net/forum?id=vKc1mLxBebP) 

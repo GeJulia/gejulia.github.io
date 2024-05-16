@@ -9,9 +9,14 @@ redirect_from:
 ---
 
 I am a Ph.D. student with a keen interest in the dynamic and ever-evolving field of Computer Vision. 
-Under the supervision of [Prof. Dr. Margret Keuper](https://www.uni-mannheim.de/dws/people/professors/prof-dr-ing-margret-keuper/) at the University of Mannheim in cooperation with [Prof. Dr. Janis Keuper](https://www.itwm.fraunhofer.de/de/abteilungen/hpc/mitarbeiter/janis-keuper.html) at the Fraunhofer Institute, Kaiserslautern, I am able to explore this exciting field at the highest level. 
+Under the supervision of [Prof. Dr. Ing. Margret Keuper](https://www.uni-mannheim.de/dws/people/professors/prof-dr-ing-margret-keuper/) at the University of Mannheim in cooperation with [Prof. Dr. Janis Keuper](https://imla.hs-offenburg.de/janis-keuper/) at IMLA, Offenburg, I am able to explore this exciting field at the highest level. 
 
 My research focuses on signal processing fundamentals, which I apply in modern deep learning approaches to create innovative solutions that push the boundaries of what's possible. Especially, my current focus lies at the intersection of signal processing fundamentals and convolutional neural networks (CNNs). Through extensive analysis of various components within CNNs, I aim to leverage my signal processing expertise to address current limitations and optimize their performance. Adversarial attacks, in particular, provide a valuable means to assess these vulnerabilities of CNNs and refine their robustness for real-world tasks. As such, I am equally intrigued by adversarial attacks and defences.
+
+News
+======
+05/2024 I am excited to announce that I will be a visiting researcher at Tampere University as Visiting Resaercher in the group of [Esa Rathu](https://esa.rahtu.fi/) for the next three month.
+
 
 Publications
 ======

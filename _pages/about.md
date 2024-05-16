@@ -15,15 +15,15 @@ My research focuses on signal processing fundamentals, which I apply in modern d
 
 News
 ======
-*05/2024* I am excited to announce that I will be a visiting researcher at Tampere University as Visiting Resaercher in the computer vision group of [Prof. Dr. Esa Rathu](https://esa.rahtu.fi/) for the next three month!
+**05/2024** I am excited to announce that I will be a visiting researcher at Tampere University as Visiting Resaercher in the computer vision group of [Prof. Dr. Esa Rathu](https://esa.rahtu.fi/) for the next three month!
 
-08/2023 Our paper [On the unreasonable vulnerability of transformers for image restoration-and an easy fix](https://openaccess.thecvf.com/content/ICCV2023W/AROW/papers/Agnihotri_On_the_Unreasonable_Vulnerability_of_Transformers_for_Image_Restoration_-_ICCVW_2023_paper.pdf) got accepted to the ICCV 2023 Workshop on Adversarial Robustness In the Real World!
+**08/2023** Our paper [On the unreasonable vulnerability of transformers for image restoration-and an easy fix](https://openaccess.thecvf.com/content/ICCV2023W/AROW/papers/Agnihotri_On_the_Unreasonable_Vulnerability_of_Transformers_for_Image_Restoration_-_ICCVW_2023_paper.pdf) got accepted to the ICCV 2023 Workshop on Adversarial Robustness In the Real World!
 
-09/2022 Our paper [Robust Models are less Over-Confident](https://www.ecva.net/papers/eccv_2022/papers_ECCV/papers/136740036.pdf) got accepted at NeurIPS 2022!
+**09/2022** Our paper [Robust Models are less Over-Confident](https://www.ecva.net/papers/eccv_2022/papers_ECCV/papers/136740036.pdf) got accepted at NeurIPS 2022!
 
-07/2022 Our paper [FrequencyLowCut Pooling--Plug & Play against Catastrophic Overfitting](https://www.ecva.net/papers/eccv_2022/papers_ECCV/papers/136740036.pdf) got accepted at ECCV 2022!
+**07/2022** Our paper [FrequencyLowCut Pooling--Plug & Play against Catastrophic Overfitting](https://www.ecva.net/papers/eccv_2022/papers_ECCV/papers/136740036.pdf) got accepted at ECCV 2022!
 
-06/2022 Our paper [Aliasing and adversarial robust generalization of CNNs](https://link.springer.com/article/10.1007/s10994-022-06222-8) got accepted at ECML 2022!
+**06/2022** Our paper [Aliasing and adversarial robust generalization of CNNs](https://link.springer.com/article/10.1007/s10994-022-06222-8) got accepted at ECML 2022!
 
 
 

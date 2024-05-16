@@ -36,7 +36,7 @@ S. Agnihotri, **J. Grabinski**, M. Keuper
 [PDF](https://arxiv.org/pdf/2311.17524)
 
 **On the unreasonable vulnerability of transformers for image restoration-and an easy fix**
-ICCV 2023 Workshop on Adversarial Robustness In the Real World
+ICCV 2023, Workshop on Adversarial Robustness In the Real World
 S. Agnihotri, KV. Gandikota, **J. Grabinski**, P. Chandramouli, M. Keuper
 [PDF](https://openaccess.thecvf.com/content/ICCV2023W/AROW/papers/Agnihotri_On_the_Unreasonable_Vulnerability_of_Transformers_for_Image_Restoration_-_ICCVW_2023_paper.pdf)
 
@@ -62,7 +62,7 @@ ICML 2022, Workshop New Frontiers in Adversarial Machine Learning
 
 **Aliasing coincides with CNNs vulnerability towards adversarial attacks**  
 **J. Grabinski**, J. Keuper, M. Keuper    
-The AAAI-22 Workshop on Adversarial Machine Learning and Beyond    
+AAAI 2022, Workshop on Adversarial Machine Learning and Beyond    
 [PDF](https://openreview.net/forum?id=vKc1mLxBebP) 
 
 

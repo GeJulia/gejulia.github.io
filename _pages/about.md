@@ -34,18 +34,18 @@ Publications
 ======
 
 **As large as it gets – Studying Infinitely Large Convolutions via Neural Implicit Frequency Filters**  
-TMLR 2024 (Featured Certification)    
-**J. Grabinski**, J. Keuper, M. Keuper    
+**J. Grabinski**, J. Keuper, M. Keuper   
+TMLR 2024 (Featured Certification)     
 [PDF](https://openreview.net/forum?id=xRy1YRcHWj) | [Code](https://github.com/GeJulia/NIFF)
 
-**Improving Stability during Upsampling--on the Importance of Spatial Context**
-ECCV 2024   
+**Improving Stability during Upsampling--on the Importance of Spatial Context**   
 S. Agnihotri, **J. Grabinski**, M. Keuper   
+ECCV 2024   
 [PDF](https://arxiv.org/pdf/2311.17524)
 
-**On the unreasonable vulnerability of transformers for image restoration-and an easy fix**
+**On the unreasonable vulnerability of transformers for image restoration-and an easy fix**   
+S. Agnihotri, KV. Gandikota, **J. Grabinski**, P. Chandramouli, M. Keuper   
 ICCV 2023, Workshop on Adversarial Robustness In the Real World   
-S. Agnihotri, KV. Gandikota, **J. Grabinski**, P. Chandramouli, M. Keuper 
 [PDF](https://openaccess.thecvf.com/content/ICCV2023W/AROW/papers/Agnihotri_On_the_Unreasonable_Vulnerability_of_Transformers_for_Image_Restoration_-_ICCVW_2023_paper.pdf)
 
 **Robust Models are less Over-Confident**  

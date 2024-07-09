@@ -5,9 +5,17 @@ permalink: /publications/
 author_profile: true
 ---
 
+**As large as it gets – Studying Infinitely Large Convolutions via Neural Implicit Frequency Filters**  
+**J. Grabinski**, J. Keuper, M. Keuper    
+TMLR 2024 (Featured Certification) 
+In this paper, we introduce a new tool, Neural Implicit Frequency Filters (NIFF), to study the effective filter size learned by CNNs. Our NIFF inherently solves the following challenges (1) we need an effective means to train models with large filters (potentially as large as the input data) without increasing the number of learnable parameters; (2) the employed convolution operation should be a plug-and-play module that can replace conventional convolutions in a CNN and allow for an efficient implementation in current frameworks; (3) the study of filter sizes has to be decoupled from other aspects such as the network width or the number of learnable parameters; (4) the cost of the convolution operation itself has to remain manageable i.e.~we can not na"{\i}vely increase the size of the convolution kernel.
+
+[PDF](https://openreview.net/forum?id=xRy1YRcHWj) |  [Code](https://github.com/GeJulia/NIFF)
+
+
 **Improving Stability during Upsampling--on the Importance of Spatial Context**     
 S. Agnihotri, **J. Grabinski**, M. Keuper   
-2023    
+ECCV 2024  
 In this paper, we analyse the importance of spatial context during upsampling in pixel-wise prediction tasks and find that the availability of large spatial context during upsampling allows to provide stable, high-quality pixel-wise predictions.
 
 [PDF](https://arxiv.org/pdf/2311.17524)

@@ -15,10 +15,16 @@ My research focuses on signal processing fundamentals, which I apply in modern d
 
 News
 ======
+**10/2024** I will present my work about enhancing modern computer vision with classic signal processing techniques at the Doctoral Consortium at ECCV 2024 and will be mentored by [Elisa Ricci](https://eliricci.eu/).
+
+**09/2024** I gave a talk about out work on [Neural Implicit Frequency Filters](https://openreview.net/forum?id=xRy1YRcHWj) at the DWS Colloquium at [University of Mannheim](https://www.uni-mannheim.de/dws/).
+
+**08/2024** I gave a talk about our [Neural Implicit Frequency Filters](https://openreview.net/forum?id=xRy1YRcHWj) and how to use them to study the optimal filter size for a given network at the [Technion](https://www.cs.technion.ac.il/people/faculty/#:~:text=of%20visual%20tasks.-,Or%20Litany,-Senior%20Lecturer).
+
 **05/2024**
 Our paper [As large as it gets – Studying Infinitely Large Convolutions via Neural Implicit Frequency Filters](https://openreview.net/forum?id=xRy1YRcHWj) got accepted at TMLR with Featured Certification!
 
-**05/2024** I am excited to announce that I will be a visiting researcher at Tampere University in the computer vision group of [Prof. Dr. Esa Rathu](https://esa.rahtu.fi/) for the next three month!
+**05/2024** I was a visiting researcher at Tampere University in the computer vision group of [Prof. Dr. Esa Rathu](https://esa.rahtu.fi/) for the three month!
 
 **08/2023** Our paper [On the unreasonable vulnerability of transformers for image restoration-and an easy fix](https://openaccess.thecvf.com/content/ICCV2023W/AROW/papers/Agnihotri_On_the_Unreasonable_Vulnerability_of_Transformers_for_Image_Restoration_-_ICCVW_2023_paper.pdf) got accepted to the ICCV 2023 Workshop on Adversarial Robustness In the Real World!
 

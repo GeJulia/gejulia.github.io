@@ -21,7 +21,7 @@ News
 
 **09/2024** Honored as Outstanding Reviewer at [ECCV 2024](https://eccv.ecva.net/Conferences/2024/Reviewers#all-outstanding-reviewers).
 
-**08/2024** I gave a talk about our [Neural Implicit Frequency Filters](https://openreview.net/forum?id=xRy1YRcHWj) and how to use them to study the optimal filter size for a given network at the [Technion](https://www.cs.technion.ac.il/people/faculty/#:~:text=of%20visual%20tasks.-,Or%20Litany,-Senior%20Lecturer).
+**08/2024** I gave a talk about our [Neural Implicit Frequency Filters](https://openreview.net/forum?id=xRy1YRcHWj) and their application in studying the optimal filter size for a given network at [Or Litany's](https://orlitany.github.io/) group at the [Technion](https://www.cs.technion.ac.il/people/faculty/#:~:text=of%20visual%20tasks.-,Or%20Litany,-Senior%20Lecturer).
 
 **05/2024**
 Our paper [As large as it gets – Studying Infinitely Large Convolutions via Neural Implicit Frequency Filters](https://openreview.net/forum?id=xRy1YRcHWj) got accepted at TMLR with Featured Certification!

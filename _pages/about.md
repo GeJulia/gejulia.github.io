@@ -17,7 +17,9 @@ News
 ======
 **10/2024** I will present my work about enhancing modern computer vision with classic signal processing techniques at the Doctoral Consortium at ECCV 2024 and will be mentored by [Elisa Ricci](https://eliricci.eu/).
 
-**09/2024** I gave a talk about out work on [Neural Implicit Frequency Filters](https://openreview.net/forum?id=xRy1YRcHWj) at the DWS Colloquium at [University of Mannheim](https://www.uni-mannheim.de/dws/).
+**09/2024** I gave a talk about our work on [Neural Implicit Frequency Filters](https://openreview.net/forum?id=xRy1YRcHWj) at the DWS Colloquium at [University of Mannheim](https://www.uni-mannheim.de/dws/).
+
+**09/2024** Honored as Outstanding Reviewer at [ECCV 2024](https://eccv.ecva.net/Conferences/2024/Reviewers#all-outstanding-reviewers).
 
 **08/2024** I gave a talk about our [Neural Implicit Frequency Filters](https://openreview.net/forum?id=xRy1YRcHWj) and how to use them to study the optimal filter size for a given network at the [Technion](https://www.cs.technion.ac.il/people/faculty/#:~:text=of%20visual%20tasks.-,Or%20Litany,-Senior%20Lecturer).
 

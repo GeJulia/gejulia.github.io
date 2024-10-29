@@ -21,6 +21,8 @@ News
 
 **09/2024** Honored as Outstanding Reviewer at [ECCV 2024](https://eccv.ecva.net/Conferences/2024/Reviewers#all-outstanding-reviewers).
 
+**09/2024** Our paper [Improving Feature Stability during Upsampling – Spectral Artifacts and the Importance of Spatial Context](https://www.ecva.net/papers/eccv_2024/papers_ECCV/papers/07582.pdf) got accepted at ECCV 2024!
+
 **08/2024** I gave a talk about our [Neural Implicit Frequency Filters](https://openreview.net/forum?id=xRy1YRcHWj) and their application in studying the optimal filter size for a given network at [Or Litany's](https://orlitany.github.io/) group at the [Technion](https://www.cs.technion.ac.il/people/faculty/#:~:text=of%20visual%20tasks.-,Or%20Litany,-Senior%20Lecturer).
 
 **05/2024**

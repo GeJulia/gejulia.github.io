@@ -48,10 +48,10 @@ Publications
 TMLR 2024 (Featured Certification)     
 [PDF](https://openreview.net/forum?id=xRy1YRcHWj) | [Code](https://github.com/GeJulia/NIFF)
 
-**Improving Stability during Upsampling--on the Importance of Spatial Context**   
+**Improving Feature Stability during Upsampling – Spectral Artifacts and the Importance of Spatial Context**   
 S. Agnihotri, **J. Grabinski**, M. Keuper   
 ECCV 2024   
-[PDF](https://arxiv.org/pdf/2311.17524)
+[PDF](https://www.ecva.net/papers/eccv_2024/papers_ECCV/papers/07582.pdf)
 
 **On the unreasonable vulnerability of transformers for image restoration-and an easy fix**   
 S. Agnihotri, KV. Gandikota, **J. Grabinski**, P. Chandramouli, M. Keuper   

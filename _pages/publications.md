@@ -13,12 +13,12 @@ In this paper, we introduce a new tool, Neural Implicit Frequency Filters (NIFF)
 [PDF](https://openreview.net/forum?id=xRy1YRcHWj) |  [Code](https://github.com/GeJulia/NIFF)
 
 
-**Improving Stability during Upsampling--on the Importance of Spatial Context**     
+**Improving Feature Stability during Upsampling – Spectral Artifacts and the Importance of Spatial Context**     
 S. Agnihotri, **J. Grabinski**, M. Keuper   
 ECCV 2024  
 In this paper, we analyse the importance of spatial context during upsampling in pixel-wise prediction tasks and find that the availability of large spatial context during upsampling allows to provide stable, high-quality pixel-wise predictions.
 
-[PDF](https://arxiv.org/pdf/2311.17524)
+[PDF](https://www.ecva.net/papers/eccv_2024/papers_ECCV/papers/07582.pdf)
 
 
 **On the unreasonable vulnerability of transformers for image restoration-and an easy fix**     

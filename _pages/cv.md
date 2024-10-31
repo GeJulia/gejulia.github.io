@@ -13,6 +13,7 @@ Education
 ======
 
 * Ph.D in Computer Vision, Mannheim University Chair of Machine Learning in cooperation with the Competence Center High Performance Computing, Fraunhofer ITWM, 2025 (expected)
+* Visiting Researcher, Tampere University, Finnland, 2024
 * M.S. in Business Informatics, Mannheim University, 2021
 * B.S. in Business Informatics, DHBW (Duale Hochschule Baden-Württemberg), 2018
 
@@ -33,6 +34,7 @@ Work experience
 
 Teaching
 ======
+* Feb 2024 - Aug 2024, Seminar: LLMs and Foundation Models für Computer Vision, Mannheim University, Germany
 * Oct 2021 - Apr 2022, Seminar: Domain Adaptation and Generalization, Siegen University, Germany
 * May 2011 - May 2015, Sommerakademie - Mathe NRW, Kranenburg, Germany
    * Teaching undergraduate students in mathematical topics for a week during summer break. Most topics were offside of normal school mathematics.

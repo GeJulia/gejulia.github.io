@@ -8,6 +8,8 @@ redirect_from:
   - /about.html
 ---
 
+**Actively seeking Postdoc Opportunities**
+
 I am a final-year Ph.D. student with a keen interest in the field of Computer Vision. 
 Under the supervision of [Prof. Dr. Ing. Margret Keuper](https://www.uni-mannheim.de/dws/people/professors/prof-dr-ing-margret-keuper/) at the University of Mannheim in cooperation with [Prof. Dr. Janis Keuper](https://imla.hs-offenburg.de/janis-keuper/) at IMLA, Offenburg.
 

@@ -17,7 +17,8 @@ My research primarily focuses on Computer Vision, leveraging insights from class
 News
 ======
 
-**07/2025** I joined the [Visual Inference Lab](https://www.visinf.tu-darmstadt.de/visual_inference/index.en.jsp) lead by [Stefan Roth](https://www.visinf.tu-darmstadt.de/visual_inference/people_vi/stefan_roth.en.jsp) as a postdocotral researcher!
+**07/2025** I joined the [Visual Inference Lab](https://www.visinf.tu-darmstadt.de/visual_inference/index.en.jsp), led by [Stefan Roth](https://www.visinf.tu-darmstadt.de/visual_inference/people_vi/stefan_roth.en.jsp), as a postdoctoral researcher.
+
 
 **07/2025** I successfully defended my PhD thesis "Multifaceted Analysis of Deep Convolutional Neural Networks and Novel Fourier Modules" at the University of Mannheim!
 

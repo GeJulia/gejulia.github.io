@@ -16,6 +16,13 @@ My research primarily focuses on Computer Vision, leveraging insights from class
 
 News
 ======
+
+**07/2025** I joined the [Visual Inference Lab](https://www.visinf.tu-darmstadt.de/visual_inference/index.en.jsp) lead by [Stefan Roth](https://www.visinf.tu-darmstadt.de/visual_inference/people_vi/stefan_roth.en.jsp) as a postdocotral researcher!
+
+**07/2025** I successfully defended my PhD thesis "Multifaceted Analysis of Deep Convolutional Neural Networks and Novel Fourier Modules" at the University of Mannheim!
+
+**05/2025** I presented our paper [As large as it gets – Studying Infinitely Large Convolutions via Neural Implicit Frequency Filters](https://openreview.net/forum?id=xRy1YRcHWj) at ICLR 2025!
+
 **10/2024** I presented my work about enhancing modern computer vision with classic signal processing techniques at the Doctoral Consortium at ECCV 2024 and was mentored by [Elisa Ricci](https://eliricci.eu/).
 
 **09/2024** I gave a talk about our work on [Neural Implicit Frequency Filters](https://openreview.net/forum?id=xRy1YRcHWj) at the DWS Colloquium at [University of Mannheim](https://www.uni-mannheim.de/dws/).

@@ -10,10 +10,11 @@ redirect_from:
 
 **Actively seeking Postdoc Opportunities**
 
-I am a final-year Ph.D. student with a keen interest in the field of Computer Vision. 
-Under the supervision of [Prof. Dr. Ing. Margret Keuper](https://www.uni-mannheim.de/dws/people/professors/prof-dr-ing-margret-keuper/) at the University of Mannheim in cooperation with [Prof. Dr. Janis Keuper](https://imla.hs-offenburg.de/janis-keuper/) at IMLA, Offenburg.
+I am a postdoctoral researcher in the [Visual Inference Lab](https://www.visinf.tu-darmstadt.de/visual_inference/index.en.jsp) at TU Darmstadt supervised by [Prof. Dr. Stefan Roth](https://www.visinf.tu-darmstadt.de/visual_inference/people_vi/stefan_roth.en.jsp).
+Previously, I was a Ph.D. candidate supervised by [Prof. Dr. Ing. Margret Keuper](https://www.uni-mannheim.de/dws/people/professors/prof-dr-ing-margret-keuper/) at the University of Mannheim in cooperation with [Prof. Dr. Janis Keuper](https://imla.hs-offenburg.de/janis-keuper/) at IMLA, Offenburg.
 
-My research focuses on signal processing fundamentals, which I apply in modern deep learning approaches to create innovative solutions that push the boundaries of what's possible. Especially, my current focus lies at the intersection of signal processing fundamentals and convolutional neural networks (CNNs). Through extensive analysis of various components within CNNs, I aim to leverage my signal processing expertise to address current limitations and optimize their performance. Adversarial attacks, in particular, provide a valuable means to assess these vulnerabilities of CNNs and refine their robustness for real-world tasks. As such, I am equally intrigued by adversarial attacks and defences.
+My research primarily focuses on Computer Vision, leveraging insights from classical signal processing and cognitive neuroscience to enhance understanding and performance.
+
 
 News
 ======

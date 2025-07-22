@@ -12,7 +12,9 @@ redirect_from:
 Education
 ======
 
-* Ph.D in Computer Vision, Mannheim University Chair of Machine Learning in cooperation with the Competence Center High Performance Computing, Fraunhofer ITWM, 2025 (expected)
+
+* Postdoctoral Researcher at the Visual Inference Lab, TU Darmstadt 
+* Ph.D in Computer Vision, Mannheim University Chair of Machine Learning in cooperation with the Competence Center High Performance Computing, Fraunhofer ITWM, 2025 
 * Visiting Researcher, Tampere University, Finnland, 2024
 * M.S. in Business Informatics, Mannheim University, 2021
 * B.S. in Business Informatics, DHBW (Duale Hochschule Baden-Württemberg), 2018

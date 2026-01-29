@@ -14,7 +14,8 @@ Previously, I was a Ph.D. candidate supervised by [Prof. Dr. Ing. Margret Keuper
 My research primarily focuses on Computer Vision, leveraging insights from classical signal processing and cognitive neuroscience to enhance efficiency, interpretability and performance.
 
 
-
+<br>
+<br>
 
 ## News
 ---

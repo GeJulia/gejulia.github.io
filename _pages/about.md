@@ -14,7 +14,9 @@ Previously, I was a Ph.D. candidate supervised by [Prof. Dr. Ing. Margret Keuper
 My research primarily focuses on Computer Vision, leveraging insights from classical signal processing and cognitive neuroscience to enhance efficiency, interpretability and performance.
 
 
-News
+
+
+## News
 ======
 **12/2025** I was honored as Outstanding Reviewer at [Neurips 2025](https://neurips.cc/Conferences/2025/ProgramCommittee#top-reviewer)!
 

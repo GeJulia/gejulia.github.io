@@ -13,11 +13,27 @@ Education
 ======
 
 
-* Postdoctoral Researcher at the Visual Inference Lab, TU Darmstadt 
-* Ph.D in Computer Vision, Mannheim University Chair of Machine Learning in cooperation with the Competence Center High Performance Computing, Fraunhofer ITWM, 2025 
+* Postdoctoral Researcher at the Visual Inference Lab, TU Darmstadt, since 2025
+* Ph.D in Computer Vision, Mannheim University Chair of Machine Learning in cooperation with the Competence Center High Performance Computing, Fraunhofer ITWM, 2021-2025 
 * Visiting Researcher, Tampere University, Finnland, 2024
-* M.S. in Business Informatics, Mannheim University, 2021
-* B.S. in Business Informatics, DHBW (Duale Hochschule Baden-Württemberg), 2018
+* M.S. in Business Informatics, Mannheim University, 2018-2021
+* B.S. in Business Informatics, DHBW (Duale Hochschule Baden-Württemberg), 2015-2018
+
+Teaching
+======
+* Feb 2024 - Aug 2024, Seminar: LLMs and Foundation Models für Computer Vision, Mannheim University, Germany
+* Oct 2021 - Apr 2022, Seminar: Domain Adaptation and Generalization, Siegen University, Germany
+* May 2011 - May 2015, Sommerakademie - Mathe NRW, Kranenburg, Germany
+   * Teaching undergraduate students in mathematical topics for a week during summer break. Most topics were offside of normal school mathematics.
+   * Organizing daily activities and taking care of younger students.
+  
+
+Community Services
+======
+* Aug 2025 - Jan 2026, Workshop Organizer for the AAAI Workshopp: "AIR-FM: Assessing and Improving Reliability of Foundation Models in the Real World"
+* Jun 2025 - Sep 2025 , Meta-Reviewer for GCPR 2025
+* since Aug 2022, Reviewer for several Top-Tier Conferences and Journals
+* Apr 2022 - Sep 2022, Member of the Committee for a W3-Professorship 
 
 Work experience
 ======
@@ -34,14 +50,7 @@ Work experience
   * Responsibilities: Changing every three months between different departments (UI, Machine Learning, Basic SAP)
 
 
-Teaching
-======
-* Feb 2024 - Aug 2024, Seminar: LLMs and Foundation Models für Computer Vision, Mannheim University, Germany
-* Oct 2021 - Apr 2022, Seminar: Domain Adaptation and Generalization, Siegen University, Germany
-* May 2011 - May 2015, Sommerakademie - Mathe NRW, Kranenburg, Germany
-   * Teaching undergraduate students in mathematical topics for a week during summer break. Most topics were offside of normal school mathematics.
-   * Organizing daily activities and taking care of younger students.
-  
+
 <!-- Skills
 ======
 * Skill 1

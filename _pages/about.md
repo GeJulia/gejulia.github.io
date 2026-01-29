@@ -17,7 +17,7 @@ My research primarily focuses on Computer Vision, leveraging insights from class
 
 
 ## News
-======
+---
 **12/2025** I was honored as Outstanding Reviewer at [Neurips 2025](https://neurips.cc/Conferences/2025/ProgramCommittee#top-reviewer)!
 
 **07/2025** I joined the [Visual Inference Lab](https://www.visinf.tu-darmstadt.de/visual_inference/index.en.jsp), led by [Stefan Roth](https://www.visinf.tu-darmstadt.de/visual_inference/people_vi/stefan_roth.en.jsp), as a postdoctoral researcher.
@@ -52,8 +52,8 @@ Our paper [As large as it gets – Studying Infinitely Large Convolutions via Ne
 
 
 
-Publications
-======
+## Publications
+---
 
 **As large as it gets – Studying Infinitely Large Convolutions via Neural Implicit Frequency Filters**  
 **J. Grabinski**, J. Keuper, M. Keuper   

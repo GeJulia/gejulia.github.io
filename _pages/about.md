@@ -11,11 +11,12 @@ redirect_from:
 I am a postdoctoral researcher in the [Visual Inference Lab](https://www.visinf.tu-darmstadt.de/visual_inference/index.en.jsp) at TU Darmstadt supervised by [Prof. Dr. Stefan Roth](https://www.visinf.tu-darmstadt.de/visual_inference/people_vi/stefan_roth.en.jsp).
 Previously, I was a Ph.D. candidate supervised by [Prof. Dr. Ing. Margret Keuper](https://www.uni-mannheim.de/dws/people/professors/prof-dr-ing-margret-keuper/) at the University of Mannheim in cooperation with [Prof. Dr. Janis Keuper](https://imla.hs-offenburg.de/janis-keuper/) at IMLA, Offenburg.
 
-My research primarily focuses on Computer Vision, leveraging insights from classical signal processing and cognitive neuroscience to enhance understanding and performance.
+My research primarily focuses on Computer Vision, leveraging insights from classical signal processing and cognitive neuroscience to enhance efficiency, interpretability and performance.
 
 
 News
 ======
+**12/2025** I was honored as Outstanding Reviewer at [Neurips 2025](https://neurips.cc/Conferences/2025/ProgramCommittee#top-reviewer)!
 
 **07/2025** I joined the [Visual Inference Lab](https://www.visinf.tu-darmstadt.de/visual_inference/index.en.jsp), led by [Stefan Roth](https://www.visinf.tu-darmstadt.de/visual_inference/people_vi/stefan_roth.en.jsp), as a postdoctoral researcher.
 

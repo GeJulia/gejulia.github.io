@@ -23,12 +23,12 @@ Following their success in visual recognition tasks, Vision Transformers (ViTs) 
 
 ## Bibtex 
  
-@InProceedings{Agnihotri_2023_ICCV,
-    author    = {Agnihotri, Shashank and Gandikota, Kanchana Vaishnavi and Grabinski, Julia and Chandramouli, Paramanand and Keuper, Margret},
-    title     = {On the Unreasonable Vulnerability of Transformers for Image Restoration - and an easy fix},
-    booktitle = {Proceedings of the IEEE/CVF International Conference on Computer Vision (ICCV) Workshops},
-    month     = {October},
-    year      = {2023},
-    pages     = {3707-3717}
-}
+  @InProceedings{Agnihotri_2023_ICCV,
+      author    = {Agnihotri, Shashank and Gandikota, Kanchana Vaishnavi and Grabinski, Julia and Chandramouli, Paramanand and Keuper, Margret},
+      title     = {On the Unreasonable Vulnerability of Transformers for Image Restoration - and an easy fix},
+      booktitle = {Proceedings of the IEEE/CVF International Conference on Computer Vision (ICCV) Workshops},
+      month     = {October},
+      year      = {2023},
+      pages     = {3707-3717}
+  }
 

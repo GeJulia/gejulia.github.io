@@ -24,8 +24,6 @@ Teaching
 * Feb 2024 - Aug 2024, Seminar: LLMs and Foundation Models für Computer Vision, Mannheim University, Germany
 * Oct 2021 - Apr 2022, Seminar: Domain Adaptation and Generalization, Siegen University, Germany
 * May 2011 - May 2015, Sommerakademie - Mathe NRW, Kranenburg, Germany
-   * Teaching undergraduate students in mathematical topics for a week during summer break. Most topics were offside of normal school mathematics.
-   * Organizing daily activities and taking care of younger students.
   
 
 Community Services
@@ -34,6 +32,7 @@ Community Services
 * Jun 2025 - Sep 2025 , Meta-Reviewer for GCPR 2025
 * since Aug 2022, Reviewer for several Top-Tier Conferences and Journals
 * Apr 2022 - Sep 2022, Member of the Committee for a W3-Professorship 
+
 
 Work experience
 ======

@@ -52,7 +52,7 @@ Our paper [As large as it gets – Studying Infinitely Large Convolutions via Ne
 **06/2022** Our paper [Aliasing and adversarial robust generalization of CNNs](https://link.springer.com/article/10.1007/s10994-022-06222-8) got accepted at ECML 2022!
 
 
-
+<!---
 ## Publications
 ---
 
@@ -96,5 +96,5 @@ ICML 2022, Workshop New Frontiers in Adversarial Machine Learning
 AAAI 2022, Workshop on Adversarial Machine Learning and Beyond    
 [PDF](https://openreview.net/forum?id=vKc1mLxBebP) 
 
-
+-->
 
